@@ -1,3 +1,3 @@
 <?php
 
-echo "GIGI TE AMO!";
+echo "Meu primeiro APP!";
